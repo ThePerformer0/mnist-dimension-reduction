@@ -46,11 +46,6 @@ mnist-dimension-reduction/
 │   ├── 03\_umap\_mnist.ipynb
 │   └── 04\_comparaison.ipynb
 │
-├── src/                        # Fonctions Python réutilisables
-│   ├── **init**.py
-│   ├── utils.py
-│   └── reducers.py
-│
 └── visualisations/             # Graphiques et figures générés
 └── figures/
 
